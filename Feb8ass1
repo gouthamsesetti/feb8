@@ -1,0 +1,3 @@
+a=int(input('enter the value in kilometers'))
+Centimetres=a*100000 
+print('the value in centimetres is : ',centimeters)
